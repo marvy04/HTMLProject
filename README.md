@@ -1,3 +1,3 @@
 # HTMLProject
 
-A HTML file.
+A HTML file and a CSS file.
